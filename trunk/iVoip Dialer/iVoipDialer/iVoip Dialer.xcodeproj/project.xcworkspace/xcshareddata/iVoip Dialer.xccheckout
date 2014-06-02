@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>5C47DCFA-EF2D-4D54-868C-F78B43626B63</string>
+	<key>IDESourceControlProjectName</key>
+	<string>iVoip Dialer</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>43D1D0CE-7DAD-45B5-A826-122591EBF1DA</key>
+		<string>https://github.com/david84tong/iVoip-Dialer.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>trunk/iVoip Dialer/iVoipDialer/iVoip Dialer.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>43D1D0CE-7DAD-45B5-A826-122591EBF1DA</key>
+		<string>../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/david84tong/iVoip-Dialer.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>43D1D0CE-7DAD-45B5-A826-122591EBF1DA</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>43D1D0CE-7DAD-45B5-A826-122591EBF1DA</string>
+			<key>IDESourceControlWCCName</key>
+			<string>iVoip-Dialer</string>
+		</dict>
+	</array>
+</dict>
+</plist>
